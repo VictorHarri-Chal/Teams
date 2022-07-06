@@ -18,3 +18,8 @@ make
 ``` zsh
 ./my_teams_cli <IP> <PORT>
 ```
+I made this project with 1 teammate :
+- [Simon LeFourn](https://github.com/simlf)
+
+## Features
+- ``` zsh /help ``` : show help
