@@ -9,3 +9,12 @@ This network project made us learn about mutli-clients handling orcommunication 
 ``` zsh
 make
 ```
+
+- Open a terminal and execute this command in order to run the server on the specified port.
+``` zsh
+./my_teams_server <PORT>
+```
+- Open one other terminal(s) (or many others) and execute this command in order to run a client on the specified IP adress and port.
+``` zsh
+./my_teams_cli <IP> <PORT>
+```
