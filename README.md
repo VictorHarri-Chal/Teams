@@ -16,7 +16,7 @@ make
 ``` zsh
 ./my_teams_server <PORT>
 ```
-- Open one other terminal(s) (or many others) and execute this command in order to run a client on the specified IP adress and port.
+- Open one other terminal (or many others) and execute this command in order to run a client on the specified IP adress and port.
 ``` zsh
 ./my_teams_cli <IP> <PORT>
 ```
